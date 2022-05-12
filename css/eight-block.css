@@ -1,0 +1,43 @@
+.phone-block {
+    width: 100%;
+    height: 800px;
+    background: #22356F;
+}
+.charles {
+    margin-left: 943px;
+}
+.p-eight {
+    margin-top: -50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 12px;
+    letter-spacing: 0.06em;
+    color: #ffffff;
+}
+.po-eight {
+    color: #62D0DF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.1em;
+}
+.pi-eight {
+    font-family: 'Poppins', sans-serif;
+    width: 579px;
+    height: 253px;
+    font-size: 36px;
+    line-height: 53px;
+    letter-spacing: -0.005em;
+    color: #ffffff;
+}
+.h1-eight {
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    letter-spacing: -0.01em;
+    line-height: 94px;
+    color: #ffffff;
+}
+.text-eight {
+    margin-top: -630px;
+    margin-left: 180px;
+}

@@ -1,0 +1,35 @@
+.phone-seven-block {
+    width: 1440px;
+    height: 800px;
+    background-color: #ffffff;
+    margin-top: 30px;
+}
+.p-seven {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 12px;
+    letter-spacing: 0.06em;
+    color: #22356F;
+}
+.h1-seven {
+    margin-top: 235px;
+    width: 676px;
+    height: 215px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    line-height: 53px;
+    letter-spacing: -0.01em;
+    color: #22356F;
+}
+.pi-seven {
+    margin-top: 152px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+}
+.txt {
+    margin-left: 586px;
+    margin-top: -700px;
+}

@@ -1,0 +1,125 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 5969px;
+}
+.menu-page {
+    background-color: #F4F9E2;
+    width: 100%;
+    height: 840px;
+}
+.logo {
+    margin-top: 27px;
+}
+.slk-menu-page {   
+    margin-left: 179px;   
+}
+.slk-menu {
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 16px;
+    line-height: 15.59px;
+    font-family: 'Poppins', sans-serif;
+    color: #22356F;
+}
+.lk-menu {
+    margin-top: -30px;
+    margin-left: 255px;
+}
+.slk-menu1 {
+    text-decoration: none;
+    color: #22356F;
+    font-size: 16px;
+    line-height: 15.59px;
+    font-family: 'Poppins', sans-serif;
+}
+.slk-menu1::before {
+    content: '';
+    position: absolute;
+    background-color: black;
+    width: 65px;
+    height: 2px;
+    bottom: 714px;
+    margin-left: -7px;
+    transition: .3s;
+    transform: scale(0);
+}
+.slk-menu1:hover::before {
+    transform: scale(1);
+}
+.butt-menu {
+    margin-left: 40px;
+    width: 150px;
+    height: 50px;
+    background: #62D0DF;
+    border: solid #F4F9E2;
+    border-radius: 50px;
+}
+.but-slk {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.phone {
+    position: absolute;
+    overflow: hidden;
+    z-index: 3;
+    margin-top: -780px;
+    margin-left: 680px;
+}
+.starker {
+    position: absolute;
+    z-index: 1;
+    overflow: hidden;
+    margin-left: 818px;
+    margin-top: -839px;
+    margin-bottom: 390px;
+}
+.h1-text {
+    margin-top: 85px;
+    width: 484px;
+    height: 167px;
+    font-family: 'Poppins', sans-serif;
+    color: #22356F;
+    font-size: 48px;
+    line-height: 53px;
+    letter-spacing: -0.035em;
+}
+.p-text {
+    font-family: 'Poppins', sans-serif;
+    color: #22356F;
+    line-height: 42px;
+    font-size: 24px;
+    width: 469px;
+    height: 161px;
+}
+.bit-2 {
+    margin-top: 70px;
+}
+.re {
+    text-decoration: none;
+    color: #ffffff;
+    letter-spacing: 0.1em;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 23px;
+}
+.re2 {
+    margin-left: 35px;
+    color: #FAB63E;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.but-text1 {
+    width: 150px;
+    height: 50px;
+    background-color: #F9B640;
+    border: solid #F4F9E2;
+}
+.text-menu-page {
+    margin-left: 179px;
+    margin-top: -655px;
+}

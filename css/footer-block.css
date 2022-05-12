@@ -1,0 +1,56 @@
+.footer-phone {
+    width: 100%;
+    height: 380px;
+    background-color: #ffffff;
+}
+/* block1 */
+.block-footer1 {
+    margin-left: 650px;
+    margin-top: -270px;
+}
+.h1-footer {
+    font-size: 14px;
+    line-height: 11px;
+    letter-spacing: -0.006em;
+    font-family: 'Poppins', sans-serif;
+    color: #22356F;
+}
+.p-block1-footer {
+    margin-top: 40px;
+    width: 207px;
+    height: 115px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: -0.006em;
+    color: rgba(34, 53, 111, 0.5);
+}
+/* block2 */
+.p-block2-footer {
+    margin-top: 40px;
+    width: 240px;
+    height: 115px;
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: -0.006em;
+    color: rgba(34, 53, 111, 0.5);
+}
+.block-footer2 {
+    margin-left: 920px;
+    margin-top: -182px;
+}
+/* block3 */
+.p-block3-footer {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 40px;
+    width: 180px;
+    height: 115px;
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: 0.01em;
+    color: rgba(34, 53, 111, 0.5);
+}
+.block-footer3 {
+    margin-left: 1220px;
+    margin-top: -178px;
+}
